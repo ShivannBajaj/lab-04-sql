@@ -1,0 +1,201 @@
+id,group,name,age,city,score
+1,Delta,Currie Mohammad,1,Petushki,16
+2,Gamma,Jazmin McWhirter,2,Wissous,47
+3,Delta,Merrile Genthner,3,Xiaojiezi,98
+4,Alpha,Brendan Duligal,4,Bratslav,22
+5,,Fanya Heaps,5,Guéret,80
+6,Delta,Valaree Piddock,6,Ridderkerk,59
+7,Gamma,Lock Bank,7,,91
+8,Delta,Zelig Onions,8,Bamenda,6
+9,Beta,Pernell Edmand,9,Xiushi,86
+10,Beta,Pat Waywell,10,Upata,13
+11,Beta,Evangelin Paten,11,,42
+12,Gamma,Lukas Turpey,12,Metsamor,87
+13,Beta,Chadwick Featherstonhalgh,13,Wotho,58
+14,Beta,Corine Ambrosio,14,Nouvelle France,66
+15,Beta,Kendrick Loseke,15,Tuti,91
+16,Alpha,Earlie Dear,16,Remscheid,38
+17,Delta,Hillery Yepiskov,17,Poděbrady,75
+18,Gamma,Opalina Mioni,18,Pangguang,71
+19,Gamma,Arlene Pothecary,19,Pechersk,82
+20,Delta,Mabel Dorant,20,Matozinhos,85
+21,Delta,Carlota Shimony,21,Tuopu,29
+22,Alpha,Kori Lambkin,22,Juhaynah,91
+23,Delta,Lira McLeary,23,Luokou,39
+24,Alpha,Mignonne Blueman,24,Penco,75
+25,Delta,Xymenes Stabler,25,Kurbnesh,54
+26,Gamma,Yorke Kondratyuk,26,Oksa,18
+27,Delta,Jennica Woolham,27,Marietta,53
+28,Alpha,Dannie Senogles,28,Dodol,59
+29,Beta,Rock Simka,29,Ordem,25
+30,Alpha,Joseph Boocock,30,Agualva,9
+31,Delta,Ginger Brave,31,Ciudad Tecún Umán,56
+32,Alpha,Cassey Lesley,32,Tyoply Stan,51
+33,Gamma,Tonie Swatheridge,33,Zhiletovo,20
+34,Delta,Carmelle Harsant,34,,81
+35,Gamma,Tuckie Wooton,35,Sukth,
+36,Delta,Shana Kalaher,36,Baimaqiao,54
+37,Beta,Eudora Tunney,37,Rennes,28
+38,Alpha,Petronella Sandcraft,38,Luka nad Jihlavou,30
+39,Delta,Herby Burnard,39,Xianrendu,72
+40,Delta,Brena Brealey,40,Cran-Gevrier,87
+41,Alpha,Tate Gearty,41,Baisha,94
+42,Beta,Aridatha Jery,42,Jovellar,27
+43,Gamma,Cathlene Cadwallader,43,Shijiazhai,35
+44,Delta,Vanni Olman,44,Sarirejo Satu,38
+45,,Jerrylee Cloonan,45,Odiongan,60
+46,,Ann-marie Diamant,46,Gyumri,16
+47,Delta,Henrietta Yele,47,Xinhe,59
+48,Delta,Barris Proudlove,48,Gaïtánion,19
+49,Gamma,Veronica Bullick,49,Xiaxindian,58
+50,Alpha,Tiphani Tricker,50,Weitian,91
+51,Alpha,Bron Paydon,51,Tieli,19
+52,,Mildrid Strewther,52,Urjala,40
+53,Beta,Basil Prosh,53,Sepahua,79
+54,Beta,Clare Oleshunin,54,Richmond,83
+55,Beta,Courtenay Godwyn,55,Schenectady,
+56,Delta,Inga Mathet,56,Durham,80
+57,,Nicol Mendonca,57,Gyeongsan-si,79
+58,Alpha,Leslie Whilde,58,Cuauhtemoc,81
+59,Alpha,Isabelle Lenthall,59,Paradise,53
+60,Delta,Lorin Blundel,60,Newport News,10
+61,Delta,Barron Pennetta,61,Mpanda,
+62,Gamma,Godfree Aveyard,62,Pemzashen,86
+63,Beta,Justino Premble,63,Ligang,39
+64,Alpha,Lars Vertey,64,Raksajaya,53
+65,Gamma,Leah Olenin,65,Solna,76
+66,Gamma,Sidonia De Gregorio,66,Nanhe,13
+67,Gamma,Etta Leeson,67,Koina,89
+68,Beta,Kaela Freund,68,Kramators’k,28
+69,Beta,Marcelle Hurlston,69,Krajan Gading,68
+70,Beta,Kristy Hinchcliffe,70,Maia,12
+71,Delta,Dominica Mangeon,71,Pervoavgustovskiy,69
+72,Alpha,Tandie Beeson,72,Abonnema,77
+73,Delta,Valdemar Flather,73,Isiolo,29
+74,Delta,Glenine Mace,74,Bang Lamung,2
+75,Alpha,Kristel Randerson,75,Cosmópolis,49
+76,Delta,Clair Izkovicz,76,Néa Péramos,36
+77,Gamma,Odo Ranken,77,,21
+78,Gamma,Clementine Binch,78,Khān Neshīn,21
+79,Delta,Addison Yakob,79,Andros Town,94
+80,Alpha,Candi Polk,80,El Fahs,100
+81,Gamma,Freeland Esel,81,Victoria,68
+82,Beta,Elissa Damsell,82,Vierzon,6
+83,Gamma,Al Eyckelbeck,83,Kruhlaye,
+84,Delta,Emera Simonnet,84,Bochov,99
+85,Beta,Griffie Fletham,85,,55
+86,Gamma,Basilius Sorby,86,Huangchen,31
+87,Beta,Anabal Timcke,87,Kan’onjichō,72
+88,Alpha,Koralle Rainforth,88,Dondo,85
+89,Delta,Elspeth Janecek,89,Talawi,20
+90,Alpha,Lorain Siene,90,Amper,13
+91,Gamma,Rodney Brandle,91,Kebunkelapa,6
+92,Alpha,Cole Cockill,92,Maglajani,50
+93,Delta,Ranique Hing,93,,79
+94,Gamma,Tammie Rymer,94,Playas,33
+95,Alpha,Harley MacPhail,95,Bačka Palanka,34
+96,Gamma,Jarrad Jans,96,Bueng Samakkhi,71
+97,Beta,Margot Lavell,97,Rossosh’,53
+98,Delta,Ricky Triggel,98,Karangdalam,9
+99,Delta,Gordie Ridgedell,99,Banepa,20
+100,Beta,Audrie Williamson,100,Hantang,98
+101,Gamma,Jeri Sans,101,Renko,49
+102,Delta,Vilma Leveret,102,Mont-de-Marsan,83
+103,Gamma,Lazar Overall,103,,97
+104,Delta,Gabriello Granger,104,São Joaquim da Barra,20
+105,Gamma,Karia Otridge,105,,63
+106,Alpha,Jyoti Stedman,106,Sernancelhe,50
+107,Gamma,Ilene McKea,107,Lopatinskiy,47
+108,Gamma,Teddie Skynner,108,,
+109,Delta,Mallory Barnfather,109,Khuean Ubonrat,32
+110,Alpha,Shelden Allbrook,110,Ngurore,78
+111,Beta,Guillermo Delyth,111,Briceni,18
+112,Gamma,Jillene Markie,112,Jacareí,39
+113,Gamma,Elspeth Lingwood,113,Liliana,
+114,Delta,Albina Yesipov,114,Hamburg,60
+115,Delta,Clarence McLachlan,115,Presidente Médici,
+116,Gamma,Manny Ramsier,116,Fengshan,44
+117,Delta,Lolita Northcott,117,Caucaguita,7
+118,Beta,Clementina Callen,118,Sartrouville,76
+119,Alpha,Itch Twiname,119,Camiri,17
+120,Delta,Brittan Kembry,120,Tuapse,96
+121,Alpha,Ebony Baline,121,Chencai,
+122,Gamma,Hilliary Yewdale,122,Kastsyukowka,48
+123,Gamma,Pierre Cormode,123,Maple Plain,96
+124,,Retha Skoggins,124,Fukui-shi,20
+125,Gamma,Juanita Winslett,125,President Roxas,100
+126,Gamma,Eben Wagenen,126,‘Ajlūn,48
+127,Alpha,Wald Petkovic,127,Fonte Boa da Brincosa,79
+128,Beta,Madelaine Hunnable,128,,47
+129,Delta,Luci Kayser,129,Youyun,90
+130,Beta,Lou Murfin,130,Nelson,4
+131,Gamma,Lanie Showering,131,Rossosh’,14
+132,Beta,Tedd Northley,132,Paatan,47
+133,,Trent Manuelli,133,Tours,97
+134,Gamma,Amelia Allender,134,Pathein,57
+135,Delta,Yolande Romme,135,Zalaegerszeg,47
+136,Gamma,Laurice Tweedy,136,Lavia,34
+137,Beta,Ray Churchill,137,Bangunsari,33
+138,Beta,Annmarie Ratcliff,138,Itatinga,87
+139,Alpha,Bradan Geator,139,Chambéry,50
+140,,Janene Wemm,140,Baru,45
+141,Beta,Lyndell Hagston,141,Ängelholm,49
+142,Gamma,Immanuel Barcke,142,Zhen’an,29
+143,Beta,Gay Slessar,143,Santa Venera,96
+144,,Twyla Greenham,144,Strasbourg,7
+145,Delta,Desi Pestridge,145,Kenzhe,27
+146,,Noby Dearle-Palser,146,,85
+147,Gamma,Jessika Jarmain,147,Lidingö,37
+148,Alpha,Mace Hutfield,148,Zhusha,8
+149,Beta,Meryl Hadgraft,149,Carnaxide,17
+150,Beta,Caralie Cubbinelli,150,Yengiawat,17
+151,Gamma,Stuart Posten,151,,60
+152,Gamma,Kayley Gaylor,152,Aného,32
+153,Alpha,Carlie Clinkard,153,Boé,66
+154,Alpha,Clem Punyer,154,Al Quwaysimah,73
+155,Beta,Cornelius Block,155,Zhenkou,30
+156,Alpha,Kevon Gianuzzi,156,Heshi,5
+157,Beta,Gertruda Methven,157,Cafayate,99
+158,Gamma,Donnie Tranfield,158,Santa María de Jesús,55
+159,Delta,Ajay Durrans,159,,12
+160,Beta,Nehemiah Jerromes,160,Vasylkiv,65
+161,Delta,Nikolos Halleday,161,Cikondang,50
+162,Delta,Sioux Franceschino,162,Linton,16
+163,Alpha,Roobbie Merryfield,163,Carvoeira,72
+164,Gamma,Danya Isard,164,,21
+165,Beta,Janetta Toy,165,Osorno,98
+166,Beta,Lesley Scarsbrick,166,Shanting,85
+167,Delta,Rudd Hambidge,167,,71
+168,Gamma,Adamo Cathro,168,Khallat Şāliḩ,55
+169,Gamma,Maynord Bartolomeu,169,Rydułtowy,55
+170,Delta,Estrellita Corre,170,Oinófyta,15
+171,Beta,Willyt Beebee,171,Risālpur,72
+172,Beta,Giavani McGirr,172,Cikabuyutan Barat,19
+173,Delta,Sallee Mourbey,173,Kuwayris Sharqī,69
+174,Gamma,Lilia Ruckledge,174,Kushima,80
+175,Beta,Abbott Lyne,175,Eindhoven,42
+176,Gamma,Merridie Bilton,176,Cikadondongdesa,37
+177,Delta,Greggory Sirkett,177,Anderstorp,32
+178,Delta,Peder Earles,178,Karanggedang,94
+179,Alpha,Eleen Dellit,179,Lille,59
+180,Delta,Quent Bearsmore,180,Bucay,99
+181,Alpha,Dniren Jupp,181,Drawsko Pomorskie,
+182,Delta,Rip Monery,182,Yunluo,33
+183,Beta,Kin Aldridge,183,San Ricardo,95
+184,Delta,Nels Crasswell,184,Cigadung,36
+185,Alpha,Gratiana Pedel,185,Pekuncen,95
+186,Gamma,Clemmy Rosie,186,Pojok,52
+187,Alpha,Moe Bramford,187,Messina,60
+188,Gamma,Renata Gage,188,Smederevska Palanka,31
+189,Alpha,Montague Alvarado,189,Oviedo,48
+190,Beta,Eadmund Gimblett,190,Osório,29
+191,Delta,Free Longland,191,Sabtang,79
+192,Delta,Karly Fevier,192,Leticia,4
+193,Beta,Kyla Minithorpe,193,Osięciny,55
+194,Gamma,Camala Panks,194,Blawi,47
+195,Gamma,Haleigh Hamblyn,195,Xiangzhu,70
+196,Beta,Obed Olekhov,196,Elias Fausto,12
+197,Gamma,Corney Jolin,197,Fifi,35
+198,Gamma,Patsy Doutch,198,Kenyau,27
+199,Delta,Gavan Wipfler,199,Nagua,4
+200,Delta,Tedman Nunan,200,,69

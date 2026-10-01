@@ -1,0 +1,7 @@
+first_name	last_name	title	created_at
+Morgan	Davis	Data Science	2026-09-05 14:00:00
+Casey	Wilson	Machine Learning	2026-09-06 15:00:00
+Jamie	Moore	Pandas	2026-09-07 16:00:00
+Riley	Taylor	MySQL	2026-09-08 17:00:00
+Avery	Anderson	Analytics	2026-09-09 18:00:00
+Cameron	Thomas	Final Post	2026-09-10 19:00:00
